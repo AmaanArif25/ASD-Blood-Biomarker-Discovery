@@ -46,6 +46,12 @@ Original expression datasets are available through NCBI GEO using their respecti
 
 ## Computational Methodology
 
+Graphical Abstract
+
+<p align="center">
+  <img src="Graphical%20Abstract.png" alt="Graphical abstract illustrating the integrated transcriptomic meta-analysis, protein-protein interaction network analysis, and machine learning framework for identifying blood biomarkers associated with Autism Spectrum Disorder" width="100%">
+</p>
+
 ### 1. Transcriptomic Data Processing
 
 A standardized preprocessing workflow was implemented to improve comparability across independent microarray studies.
